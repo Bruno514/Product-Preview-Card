@@ -1,0 +1,10 @@
+@import "./assets/styles/fonts.scss";
+@import "./assets/styles/colors.scss";
+
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  min-height: 38rem;
+}

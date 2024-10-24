@@ -1,0 +1,12 @@
+@import "./assets/styles/colors.scss";
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%; 
+}
+
+html {
+  background-color: $cream;
+}
