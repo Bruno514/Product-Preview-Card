@@ -67,9 +67,9 @@ Responsiveness feels good, I should probably leave at this state. Perfectionism 
 
 ### Useful resources
 
-- [Example resource 1](https://web.dev/learn/design/responsive-images) - Learned a lot about responsiveness on images.
+- [Responsive Images](https://web.dev/learn/design/responsive-images) - Learned a lot about responsiveness on images.
 
-- [Example resource 2](https://web.dev/learn/design/typography) - Another GREAT resource.
+- [Typography](https://web.dev/learn/design/typography) - Another GREAT resource.
 
 ## Author
 
